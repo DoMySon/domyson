@@ -4,9 +4,9 @@
 
 * I often use go,c, csharp,lua to develop some frameworks and tools, and now I am working on arm and rust.
 
-* I developed the service framework skynet-go(based on cgo) and the game framework Anywhere(based on Unity3d).
+* I developed the game server framework skynet-go(based on cgo) and the unity3d game framework Anywhere.
 
-* I also developed an register base scripting language (scriptc).
+* I also developed a strongly typed scripting language (typelang).
 
 * Also wrote a new coding protocol (kproto) which is faster than protobuf-v3.
 
