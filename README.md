@@ -2,7 +2,7 @@
 
 * I love games, I love coding, and I'm interested in games, computer principles, and operating systems.
 
-* I often use go,c, csharp,lua to develop some frameworks and tools, and now I am working on arm and rust.
+* I often use go,c, csharp,lua to develop some frameworks and tools, and now I am working on arm.
 
 * I developed the game server framework skynet-go(based on cgo) and the unity3d game framework Anywhere.
 
