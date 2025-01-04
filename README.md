@@ -4,7 +4,7 @@
 
 * I often use go,c, csharp,lua to develop some frameworks and tools, and now I am working on arm.
 
-* I developed the game server framework skynet-go(based on cgo) and the unity3d game framework Anywhere.
+* I developed the game server framework skynet-go(based on cgo) and the unity3d game framework 'Zen'.
 
 * I also developed a strongly typed scripting language (typelang).
 
