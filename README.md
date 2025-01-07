@@ -12,6 +12,7 @@
 
 * 👋 The above, they are not open source yet and may be in the future, but most of the technical theories can be found on my website
 
+![](https://komarev.com/ghpvc/?username=domyson)
 
 # Link
 
