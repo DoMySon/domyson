@@ -41,9 +41,9 @@
 </a>-->
 
 # Project
-[] tailwind binding for templ.
-[] zdocs frontend implement.
-[] supervisor frontend implement.
+- [ ] tailwind binding for templ.
+- [ ] zdocs frontend implement.
+- [ ] supervisor frontend implement.
 
 # Thanks
 
