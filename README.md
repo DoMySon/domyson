@@ -40,7 +40,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>-->
 
+# Project
+[] tailwind binding for templ.
+[] zdocs frontend implement.
+[] supervisor frontend implement.
 
 # Thanks
 
-[supported themes](https://github.com/MeiK2333/github-style)
+[themes](https://github.com/MeiK2333/github-style)
